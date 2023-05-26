@@ -1,0 +1,10 @@
+// Angular
+
+1. create folder pract5
+2. open terminal 
+3. type to install npm install -g @angular/cli
+4. now create project 
+   ng new student
+5. then after creating project go to src
+6. run on localhost 4200
+7. go to app.component.html
